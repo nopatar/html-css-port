@@ -71,6 +71,7 @@ main{
     background-color: white;
     max-width: auto;
     margin: 0 10em;
+    height: 100vh;
 }
 .item{
     
